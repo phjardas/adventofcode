@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "z3-solver": "^4.15.4"
+  }
+}
